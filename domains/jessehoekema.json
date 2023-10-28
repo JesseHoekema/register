@@ -1,11 +1,12 @@
 {
+    "description": "my portfolio",
+    "repo": "https://github.com/jessehoekema/jessehoekema.github.io",
     "owner": {
         "username": "JesseHoekema",
-        "email": "jessehoekema@icloud.com"
+        "email": "jessehoekema@icloud.com",
+        "twitter": "jessehoekema"
     },
     "record": {
-        "A": ["217.174.245.249"],
-        "MX": ["hosts.is-a.dev"],
-        "TXT": "v=spf1 a mx ip4:217.174.245.249 ~all"
+        "CNAME": "jessehoekema.github.io"
     }
-}
+} 
